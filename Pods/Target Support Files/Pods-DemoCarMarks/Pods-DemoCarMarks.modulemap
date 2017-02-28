@@ -1,6 +1,0 @@
-framework module Pods_DemoCarMarks {
-  umbrella header "Pods-DemoCarMarks-umbrella.h"
-
-  export *
-  module * { export * }
-}
